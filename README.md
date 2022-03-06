@@ -1,2 +1,2 @@
-# FraxFinance.github.io
+# candleplatforms.github.io
 Main Website Source Code
